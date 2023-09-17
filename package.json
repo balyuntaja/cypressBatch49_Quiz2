@@ -1,0 +1,22 @@
+{
+  "name": "cypressbatch49_quiz2",
+  "version": "1.0.0",
+  "description": "Cypress Quiz 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balyuntaja/cypressBatch49_Quiz2.git"
+  },
+  "author": "Baliyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balyuntaja/cypressBatch49_Quiz2/issues"
+  },
+  "homepage": "https://github.com/balyuntaja/cypressBatch49_Quiz2#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
